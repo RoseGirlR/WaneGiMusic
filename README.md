@@ -27,7 +27,7 @@
 <img alt="app" src="https://img-blog.csdnimg.cn/20191126112756175.gif" style="max-width:100%;">
 
 ### 开发工具
-Android Studio + MySQL + Git + Chrome
+Android Studio + Realm + Git + Chrome
 
 ### 建议
 Android初学者可快速入门，连接真机运行项目体验感更棒！
